@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		478,
+		174,
+		169,
+		68
+	],
+	"lastmodifieddate": 1702051116.177,
+	"createddate": 1702051116.177,
+	"name": "RecipientsName",
+	"lastfounddate": 1702051316.1599998,
+	"ocrcapturestring": "Recipient's Name:",
+	"lastfoundlocation": [
+		478,
+		74,
+		169,
+		68
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[50,39]",
+					"Tolerance": "_54",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "RecipientsName.png",
+				"connectionname": "3.101.91.195",
+				"type": 1,
+				"connectionserverid": "3.101.91.195",
+				"capturerect": [
+					478,
+					174,
+					169,
+					68
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Recipient's Name:"
+			}
+	]
+}

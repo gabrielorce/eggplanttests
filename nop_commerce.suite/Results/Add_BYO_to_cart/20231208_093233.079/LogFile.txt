@@ -1,0 +1,10 @@
+﻿2023-12-08 09:32:33.084 -0500	START		Running Add_to_cart.script
+2023-12-08 09:32:33.298 -0500	doubleclick	chrome_icon	at (40, 288)	8	on_add_to_cart	Add_to_cart.script
+2023-12-08 09:32:34.772 -0500	click	magnifying_glass	at (185, 54)	9	on_add_to_cart	Add_to_cart.script
+2023-12-08 09:32:36.286 -0500	typetext		nopcommerce.testplant.com[return]	10	on_add_to_cart	Add_to_cart.script
+2023-12-08 09:32:37.453 -0500	click	nopcommerce_title	at (314, 173)	11	on_add_to_cart	Add_to_cart.script
+2023-12-08 09:32:38.156 -0500	scrollwheeldown		moved 15	13	on_add_to_cart	Add_to_cart.script
+2023-12-08 09:32:38.994 -0500	click	ADDTOCART	at (105, 298)	15	on_add_to_cart	Add_to_cart.script
+2023-12-08 09:32:39.831 -0500	click	chrome_close	at (1000, 13)	16	on_add_to_cart	Add_to_cart.script
+2023-12-08 09:32:39.854 -0500	EndTestCase		(Duration:"6.765", Errors:"0", Exceptions:"0", StartTime:"2023-12-08 09:32:33 -0500", Successes:"1", TestCase:"Add_to_cart.script", Warnings:"0")
+2023-12-08 09:32:39.868 -0500	SUCCESS		Execution Time 0:00:06 Add_to_cart.script

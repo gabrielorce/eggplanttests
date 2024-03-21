@@ -1,0 +1,80 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 09:36:10.100 -0500"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:10.289 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (40, 288)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:12.107 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (185, 54)",
+				"image": "magnifying_glass",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:13.624 -0500",
+				"message": "nopcommerce.testplant.com[return]",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:14.471 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (314, 173)",
+				"image": "nopcommerce_title",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:15.186 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:16.036 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (105, 298)",
+				"image": "ADDTOCART",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:16.751 -0500",
+				"message": "moved 8",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"message": "(Duration:\"17.782\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-08 09:36:10 -0500\", Successes:\"0\", TestCase:\"Add_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 09:36:27.885 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:17 Add_to_cart.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 09:36:27.891 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 09:36:10.102 -0500"
+}

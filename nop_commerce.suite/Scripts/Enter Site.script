@@ -1,0 +1,10 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2023-12-08 09:20:43
+  From session:  session1
+  Captured on:  2023-12-08 09:17:18
+  From server:  310191195
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "chrome_icon"
+Click (Image:"magnifying_glass", WaitFor:11)
+TypeText "nopcommerce.testplant.com",Return

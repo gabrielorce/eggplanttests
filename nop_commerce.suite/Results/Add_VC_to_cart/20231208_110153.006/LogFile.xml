@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Add_VC_to_cart_script" package="nop_commerce.suite" timestamp="2023-12-08 11:01:53.006 -0500"
+ tests="1"  failures="0" errors="0" time="11.665000">
+  <properties>
+   <property name="RunDate" value="2023-12-08 11:01:53.006 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Add_VC_to_cart.script" assertions="1" status="success"  time="11.66">
+  </testcase>
+ </testsuite>
+</testsuites>

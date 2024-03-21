@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Enter Site.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:51:14.674 -0400"
+			},
+		{
+				"handlerName": "on_enter_site",
+				"timestamp": "2024-03-18 11:51:19.176 -0400",
+				"scriptName": "Enter Site.script",
+				"message": "No Image Found On Screen: \"chrome_icon\"",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"4.573\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-18 11:51:14 -0400\", Successes:\"0\", TestCase:\"Enter Site.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:51:19.252 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:04 Enter Site.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-18 11:51:19.258 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:51:14.677 -0400"
+}

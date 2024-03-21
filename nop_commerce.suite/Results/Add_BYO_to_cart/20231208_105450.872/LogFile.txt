@@ -1,0 +1,12 @@
+﻿2023-12-08 10:54:50.876 -0500	START		Running Add_to_cart.script
+2023-12-08 10:54:50.945 -0500	scrollwheeldown		moved 15	8	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:52.083 -0500	click	ADDTOCART	at (105, 298)	10	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:52.792 -0500	scrollwheeldown		moved 6	12	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:53.644 -0500	click	RAM_Select	at (600, 271)	14	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:54.362 -0500	keydown		[downArrow]	17	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:55.095 -0500	keydown		[return]	18	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:55.932 -0500	click	HDD_Select	at (493, 339)	20	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:56.774 -0500	click	ADDTOCART	at (615, 672)	23	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:57.488 -0500	scrollwheelup		moved 15	25	on_add_to_cart	Add_to_cart.script
+2023-12-08 10:54:57.503 -0500	EndTestCase		(Duration:"6.623", Errors:"0", Exceptions:"0", StartTime:"2023-12-08 10:54:50 -0500", Successes:"1", TestCase:"Add_to_cart.script", Warnings:"0")
+2023-12-08 10:54:57.537 -0500	SUCCESS		Execution Time 0:00:06 Add_to_cart.script

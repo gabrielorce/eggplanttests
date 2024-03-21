@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_BYO_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:49:05.610 -0400"
+			},
+		{
+				"message": "(Duration:\"6.639\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-18 11:49:05 -0400\", Successes:\"0\", TestCase:\"Add_BYO_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:49:12.263 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:06 Add_BYO_to_cart.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-18 11:49:12.282 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:49:05.621 -0400"
+}

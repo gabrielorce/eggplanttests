@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_BYO_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 08:00:23.334 -0400"
+			},
+		{
+				"handlerName": "on_add_byo_to_cart",
+				"timestamp": "2024-03-18 08:00:23.393 -0400",
+				"message": "Remote Connection Unavailable",
+				"scriptName": "Add_BYO_to_cart.script",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.081\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-18 08:00:23 -0400\", Successes:\"0\", TestCase:\"Add_BYO_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 08:00:23.425 -0400"
+			},
+		{
+				"message": "No Remote Connection: click Error - Remote Connection Unavailable -- Execution Time 0:00:00 Add_BYO_to_cart.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-18 08:00:23.472 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 08:00:23.340 -0400"
+}

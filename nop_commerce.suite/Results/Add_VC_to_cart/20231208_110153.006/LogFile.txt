@@ -1,0 +1,17 @@
+﻿2023-12-08 11:01:53.010 -0500	START		Running Add_VC_to_cart.script
+2023-12-08 11:01:53.173 -0500	click	nopcommerce_title	at (314, 173)	8	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:53.888 -0500	scrollwheeldown		moved 15	11	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:54.738 -0500	click	VirtualGiftCard_ADDTOCART	at (819, 300)	13	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:55.443 -0500	scrollwheeldown		moved 6	15	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:56.281 -0500	click	RecipientsName	at (528, 113)	17	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:57.364 -0500	typetext		James John[return]	18	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:58.220 -0500	click	RecipientsEmail	at (527, 177)	19	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:59.259 -0500	typetext		jj@jj.com[return]	20	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:02:00.117 -0500	click	YourName	at (503, 242)	21	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:02:01.013 -0500	typetext		tiger[return]	22	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:02:01.870 -0500	click	YourEmail	at (543, 312)	23	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:02:03.090 -0500	typetext		tiger@tiger.com[return]	25	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:02:03.939 -0500	click	ADDTOCART	at (615, 604)	29	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:02:04.652 -0500	scrollwheelup		moved 15	31	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:02:04.672 -0500	EndTestCase		(Duration:"11.66", Errors:"0", Exceptions:"0", StartTime:"2023-12-08 11:01:53 -0500", Successes:"1", TestCase:"Add_VC_to_cart.script", Warnings:"0")
+2023-12-08 11:02:04.712 -0500	SUCCESS		Execution Time 0:00:11 Add_VC_to_cart.script

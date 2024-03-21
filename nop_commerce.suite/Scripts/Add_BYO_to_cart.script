@@ -1,0 +1,28 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2023-12-08 09:20:43
+  From session:  session1
+  Captured on:  2023-12-08 09:17:18
+  From server:  310191195
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click {Image:"nopcommerce_title", WaitFor:11}
+
+
+ScrollWheelDown 15
+
+Click "ADDTOCART"
+
+ScrollWheelDown 6
+
+Click {Image:"RAM_Select", WaitFor:11}
+
+
+KeyDown downArrow
+KeyDown Return
+
+Click {Image:"HDD_Select", WaitFor:11}
+
+
+Click "ADDTOCART"
+
+ScrollWheelUp 15

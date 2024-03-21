@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		482,
+		256,
+		135,
+		75
+	],
+	"lastmodifieddate": 1702046120.141,
+	"createddate": 1702046120.141,
+	"name": "RAM_selected",
+	"lastfounddate": 1702046623.1259999,
+	"ocrcapturestring": "Please select v Please select 2 GB",
+	"lastfoundlocation": [
+		482,
+		256,
+		135,
+		75
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[67,37]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "RAM_selected.png",
+				"connectionname": "3.101.91.195",
+				"type": 1,
+				"connectionserverid": "3.101.91.195",
+				"capturerect": [
+					482,
+					256,
+					135,
+					75
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Please select v Please select 2 GB"
+			}
+	]
+}

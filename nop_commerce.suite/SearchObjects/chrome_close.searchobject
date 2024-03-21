@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		893,
+		3,
+		123,
+		23
+	],
+	"lastmodifieddate": 1702045287.47,
+	"createddate": 1702045287.47,
+	"name": "chrome_close",
+	"lastfounddate": 1710778593.921,
+	"ocrcapturestring": "0 X",
+	"lastfoundlocation": [
+		893,
+		9,
+		123,
+		23
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[107,10]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrome_close.png",
+				"connectionname": "3.101.91.195",
+				"type": 1,
+				"connectionserverid": "3.101.91.195",
+				"capturerect": [
+					893,
+					3,
+					123,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "0 X"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		130,
+		56,
+		11,
+		14
+	],
+	"lastmodifieddate": 1710777255.1289999,
+	"createddate": 1710777206.5999999,
+	"name": "magnifying_glass2",
+	"lastfounddate": 1710778565.1259999,
+	"ocrcapturestring": "G",
+	"lastfoundlocation": [
+		130,
+		56,
+		11,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[5,7]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "magnifying_glass/magnifying_glass2.png",
+				"connectionname": "3.101.91.195",
+				"type": 1,
+				"connectionserverid": "54.215.53.196",
+				"capturerect": [
+					130,
+					56,
+					11,
+					14
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "G"
+			}
+	]
+}

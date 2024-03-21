@@ -1,0 +1,15 @@
+﻿ScrollWheelUp 15
+
+Click {Image:"Shoppingcart", WaitFor:11}
+
+ScrollWheelDown 15
+ScrollWheelUp 2
+
+
+Click text:"CHECKOUT", waitFor:11
+wait 3
+Click {Image:"Termsofservice_close", WaitFor:11}
+Click {Image:"Iagree_TOS", WaitFor:11}
+
+Click text:"CHECKOUT", waitFor:11
+

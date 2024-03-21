@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		758,
+		444,
+		179,
+		189
+	],
+	"lastmodifieddate": 1702051056.585,
+	"createddate": 1702051056.585,
+	"name": "VirtualGiftCard_ADDTOCART",
+	"lastfounddate": 1702051314.6129999,
+	"ocrcapturestring": "$25 Virtual Gift Card ☆ ☆☆☆☆ $25.00 ADD TO CART",
+	"lastfoundlocation": [
+		758,
+		144,
+		179,
+		189
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[61,156]",
+					"Tolerance": "_52",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "VirtualGiftCard_ADDTOCART.png",
+				"connectionname": "3.101.91.195",
+				"type": 1,
+				"connectionserverid": "3.101.91.195",
+				"capturerect": [
+					758,
+					444,
+					179,
+					189
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "$25 Virtual Gift Card ☆ ☆☆☆☆ $25.00 ADD TO CART"
+			}
+	]
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Enter Site_script" package="nop_commerce.suite" timestamp="2024-03-18 11:53:34.807 -0400"
+ tests="1"  failures="0" errors="0" time="15.791000">
+  <properties>
+   <property name="RunDate" value="2024-03-18 11:53:34.807 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Enter Site.script" assertions="1" status="error"  time="15.784">
+    <error type="Exception" message="No Image Found On Screen: &quot;magnifying_glass&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

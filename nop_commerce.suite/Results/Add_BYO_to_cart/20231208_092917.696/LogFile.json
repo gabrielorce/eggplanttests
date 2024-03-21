@@ -1,0 +1,72 @@
+{
+	"entries": [
+		{
+				"message": "Running session1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 09:29:17.701 -0500"
+			},
+		{
+				"handlerName": "on_session1",
+				"timestamp": "2023-12-08 09:29:17.911 -0500",
+				"scriptName": "session1.script",
+				"message": "at (40, 288)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_session1",
+				"timestamp": "2023-12-08 09:29:19.387 -0500",
+				"scriptName": "session1.script",
+				"message": "at (185, 54)",
+				"image": "magnifying_glass",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_session1",
+				"timestamp": "2023-12-08 09:29:20.886 -0500",
+				"message": "nopcommerce.testplant.com[return]",
+				"scriptName": "session1.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_session1",
+				"timestamp": "2023-12-08 09:29:22.051 -0500",
+				"scriptName": "session1.script",
+				"message": "at (314, 173)",
+				"image": "nopcommerce_title",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_session1",
+				"timestamp": "2023-12-08 09:29:22.760 -0500",
+				"message": "moved 100",
+				"scriptName": "session1.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_session1",
+				"timestamp": "2023-12-08 09:29:34.100 -0500",
+				"scriptName": "session1.script",
+				"message": "No Image Found On Screen: \"ADDTOCART\"",
+				"image": "ADDTOCART",
+				"handlerLine": 15,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"16.459\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-08 09:29:17 -0500\", Successes:\"0\", TestCase:\"session1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 09:29:34.164 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:16 session1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 09:29:34.172 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 09:29:17.703 -0500"
+}

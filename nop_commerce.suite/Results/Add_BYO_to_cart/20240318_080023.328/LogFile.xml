@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Add_BYO_to_cart_script" package="nop_commerce.suite" timestamp="2024-03-18 08:00:23.328 -0400"
+ tests="1"  failures="1" errors="1" time="0.093000">
+  <properties>
+   <property name="RunDate" value="2024-03-18 08:00:23.328 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Add_BYO_to_cart.script" assertions="1" status="error"  time="0.081">
+    <failure type="FAILURE" message="No Remote Connection: click Error - Remote Connection Unavailable -- Execution Time 0:00:00 Add_BYO_to_cart.script" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

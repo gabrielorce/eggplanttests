@@ -1,0 +1,90 @@
+{
+	"entries": [
+		{
+				"message": "Running Original.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:54:56.982 -0400"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:54:57.231 -0400",
+				"scriptName": "Original.script",
+				"message": "at (39, 287)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:54:59.714 -0400",
+				"scriptName": "Original.script",
+				"message": "at (155, 66)",
+				"image": "magnifying_glass",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:55:01.235 -0400",
+				"message": "nopcommerce.testplant.com[return]",
+				"scriptName": "Original.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:55:02.075 -0400",
+				"scriptName": "Original.script",
+				"message": "at (681, 284)",
+				"image": "nopcommerce_title",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:55:02.780 -0400",
+				"message": "moved 15",
+				"scriptName": "Original.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:55:03.615 -0400",
+				"scriptName": "Original.script",
+				"message": "at (158, 323)",
+				"image": "ADDTOCART",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:55:04.329 -0400",
+				"message": "moved 6",
+				"scriptName": "Original.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:55:36.535 -0400",
+				"scriptName": "Original.script",
+				"message": "No Image Found On Screen: \"RAM_Select\"",
+				"image": "RAM_Select",
+				"handlerLine": 19,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"39.641\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-18 11:54:56 -0400\", Successes:\"0\", TestCase:\"Original.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:55:36.627 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"RAM_Select\" -- Execution Time 0:00:39 Original.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-18 11:55:36.694 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:54:56.984 -0400"
+}

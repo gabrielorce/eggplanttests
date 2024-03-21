@@ -1,0 +1,139 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_VC_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 11:01:53.010 -0500"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:53.173 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (314, 173)",
+				"image": "nopcommerce_title",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:53.888 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 11,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:54.738 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (819, 300)",
+				"image": "VirtualGiftCard_ADDTOCART",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:55.443 -0500",
+				"message": "moved 6",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 15,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:56.281 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (528, 113)",
+				"image": "RecipientsName",
+				"handlerLine": 17,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:57.364 -0500",
+				"message": "James John[return]",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 18,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:58.220 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (527, 177)",
+				"image": "RecipientsEmail",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:59.259 -0500",
+				"message": "jj@jj.com[return]",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 20,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:02:00.117 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (503, 242)",
+				"image": "YourName",
+				"handlerLine": 21,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:02:01.013 -0500",
+				"message": "tiger[return]",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:02:01.870 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (543, 312)",
+				"image": "YourEmail",
+				"handlerLine": 23,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:02:03.090 -0500",
+				"message": "tiger@tiger.com[return]",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 25,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:02:03.939 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (615, 604)",
+				"image": "ADDTOCART",
+				"handlerLine": 29,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:02:04.652 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 31,
+				"identifier": "scrollwheelup"
+			},
+		{
+				"message": "(Duration:\"11.66\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-08 11:01:53 -0500\", Successes:\"1\", TestCase:\"Add_VC_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 11:02:04.672 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:11 Add_VC_to_cart.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-08 11:02:04.712 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 11:01:53.012 -0500"
+}

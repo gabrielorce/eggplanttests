@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Enter Site.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:52:05.555 -0400"
+			},
+		{
+				"message": "(Duration:\"1.171\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-18 11:52:05 -0400\", Successes:\"0\", TestCase:\"Enter Site.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:52:06.731 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:01 Enter Site.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-18 11:52:06.742 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:52:05.559 -0400"
+}

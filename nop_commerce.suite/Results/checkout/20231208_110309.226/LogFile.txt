@@ -1,0 +1,11 @@
+﻿2023-12-08 11:03:09.230 -0500	START		Running checkout.script
+2023-12-08 11:03:09.298 -0500	scrollwheelup		moved 15	1	on_checkout	checkout.script
+2023-12-08 11:03:10.137 -0500	click	Shoppingcart	at (904, 98)	3	on_checkout	checkout.script
+2023-12-08 11:03:10.854 -0500	scrollwheeldown		moved 15	5	on_checkout	checkout.script
+2023-12-08 11:03:11.554 -0500	scrollwheelup		moved 2	6	on_checkout	checkout.script
+2023-12-08 11:03:12.962 -0500	click	(TEXT:"CHECKOUT")	at (868, 356)	9	on_checkout	checkout.script
+2023-12-08 11:03:16.109 -0500	click	Termsofservice_close	at (628, 364)	11	on_checkout	checkout.script
+2023-12-08 11:03:16.965 -0500	click	Iagree_TOS	at (575, 292)	12	on_checkout	checkout.script
+2023-12-08 11:03:18.367 -0500	click	(TEXT:"CHECKOUT")	at (868, 356)	14	on_checkout	checkout.script
+2023-12-08 11:03:18.386 -0500	EndTestCase		(Duration:"9.153", Errors:"0", Exceptions:"0", StartTime:"2023-12-08 11:03:09 -0500", Successes:"1", TestCase:"checkout.script", Warnings:"0")
+2023-12-08 11:03:18.425 -0500	SUCCESS		Execution Time 0:00:09 checkout.script

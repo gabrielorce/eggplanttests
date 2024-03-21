@@ -1,0 +1,165 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 09:50:35.485 -0500"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:35.737 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (38, 289)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:37.553 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (185, 54)",
+				"image": "magnifying_glass",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:39.069 -0500",
+				"message": "nopcommerce.testplant.com[return]",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:39.889 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (314, 173)",
+				"image": "nopcommerce_title",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:40.606 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:41.441 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (105, 298)",
+				"image": "ADDTOCART",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:42.155 -0500",
+				"message": "moved 6",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:43.008 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (600, 271)",
+				"image": "RAM_Select",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:43.738 -0500",
+				"message": "[downArrow]",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 22,
+				"identifier": "keydown"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:44.467 -0500",
+				"message": "[return]",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 23,
+				"identifier": "keydown"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:45.321 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (493, 339)",
+				"image": "HDD_Select",
+				"handlerLine": 25,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:46.170 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (615, 672)",
+				"image": "ADDTOCART",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:46.885 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 30,
+				"identifier": "scrollwheelup"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:50.662 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (910, 98)",
+				"image": "Shoppingcart",
+				"handlerLine": 32,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:51.376 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 34,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:52.092 -0500",
+				"message": "moved 2",
+				"scriptName": "Add_to_cart.script",
+				"handlerLine": 35,
+				"identifier": "scrollwheelup"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:50:53.427 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "at (868, 356)",
+				"image": "(TEXT:\"CHECKOUT\")",
+				"handlerLine": 38,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"20.011\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-08 09:50:35 -0500\", Successes:\"0\", TestCase:\"Add_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 09:50:55.500 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:20 Add_to_cart.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 09:50:55.507 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 09:50:35.486 -0500"
+}

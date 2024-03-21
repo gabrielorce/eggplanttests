@@ -1,0 +1,6 @@
+﻿2023-12-08 11:01:19.271 -0500	START		Running Add_VC_to_cart.script
+2023-12-08 11:01:19.437 -0500	click	nopcommerce_title	at (314, 173)	8	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:20.154 -0500	scrollwheeldown		moved 15	11	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:35.029 -0500	Exception	VirtualGiftCard_ADDTOCART	No Image Found On Screen: "VirtualGiftCard_ADDTOCART"	13	on_add_vc_to_cart	Add_VC_to_cart.script
+2023-12-08 11:01:35.083 -0500	EndTestCase		(Duration:"15.809", Errors:"1", Exceptions:"1", StartTime:"2023-12-08 11:01:19 -0500", Successes:"0", TestCase:"Add_VC_to_cart.script", Warnings:"0")
+2023-12-08 11:01:35.091 -0500	ABORTED		Execution Time 0:00:15 Add_VC_to_cart.script

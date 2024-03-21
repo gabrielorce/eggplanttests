@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Enter Site.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:52:47.467 -0400"
+			},
+		{
+				"handlerName": "on_enter_site",
+				"timestamp": "2024-03-18 11:52:47.705 -0400",
+				"scriptName": "Enter Site.script",
+				"message": "at (39, 287)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"10.044\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-18 11:52:47 -0400\", Successes:\"0\", TestCase:\"Enter Site.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:52:57.514 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:10 Enter Site.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-18 11:52:57.518 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:52:47.469 -0400"
+}

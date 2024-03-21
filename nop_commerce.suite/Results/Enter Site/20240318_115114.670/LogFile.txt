@@ -1,0 +1,4 @@
+﻿2024-03-18 11:51:14.674 -0400	START		Running Enter Site.script
+2024-03-18 11:51:19.176 -0400	Exception	chrome_icon	No Image Found On Screen: "chrome_icon"	8	on_enter_site	Enter Site.script
+2024-03-18 11:51:19.252 -0400	EndTestCase		(Duration:"4.573", Errors:"1", Exceptions:"1", StartTime:"2024-03-18 11:51:14 -0400", Successes:"0", TestCase:"Enter Site.script", Warnings:"0")
+2024-03-18 11:51:19.258 -0400	ABORTED		Execution Time 0:00:04 Enter Site.script

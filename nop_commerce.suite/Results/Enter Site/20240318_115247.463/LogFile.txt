@@ -1,0 +1,4 @@
+﻿2024-03-18 11:52:47.467 -0400	START		Running Enter Site.script
+2024-03-18 11:52:47.705 -0400	doubleclick	chrome_icon	at (39, 287)	8	on_enter_site	Enter Site.script
+2024-03-18 11:52:57.514 -0400	EndTestCase		(Duration:"10.044", Errors:"1", Exceptions:"0", StartTime:"2024-03-18 11:52:47 -0400", Successes:"0", TestCase:"Enter Site.script", Warnings:"0")
+2024-03-18 11:52:57.518 -0400	ABORTED		Execution Time 0:00:10 Enter Site.script

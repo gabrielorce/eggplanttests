@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_VC_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 11:01:19.271 -0500"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:19.437 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (314, 173)",
+				"image": "nopcommerce_title",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:20.154 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 11,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:35.029 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "No Image Found On Screen: \"VirtualGiftCard_ADDTOCART\"",
+				"image": "VirtualGiftCard_ADDTOCART",
+				"handlerLine": 13,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"15.809\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-08 11:01:19 -0500\", Successes:\"0\", TestCase:\"Add_VC_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 11:01:35.083 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:15 Add_VC_to_cart.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 11:01:35.091 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 11:01:19.273 -0500"
+}

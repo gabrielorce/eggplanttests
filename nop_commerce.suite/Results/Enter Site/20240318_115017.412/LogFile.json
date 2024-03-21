@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running Enter Site.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:50:17.416 -0400"
+			},
+		{
+				"handlerName": "on_enter_site",
+				"timestamp": "2024-03-18 11:50:17.696 -0400",
+				"scriptName": "Enter Site.script",
+				"message": "at (39, 287)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_enter_site",
+				"timestamp": "2024-03-18 11:50:25.958 -0400",
+				"scriptName": "Enter Site.script",
+				"message": "at (185, 54)",
+				"image": "magnifying_glass",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_enter_site",
+				"timestamp": "2024-03-18 11:50:27.445 -0400",
+				"message": "nopcommerce.testplant.com[return]",
+				"scriptName": "Enter Site.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"10.076\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-18 11:50:17 -0400\", Successes:\"1\", TestCase:\"Enter Site.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:50:27.495 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:10 Enter Site.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-18 11:50:27.542 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:50:17.418 -0400"
+}

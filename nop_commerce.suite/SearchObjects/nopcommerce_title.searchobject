@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		20,
+		150,
+		246,
+		64
+	],
+	"lastmodifieddate": 1702045688.0349998,
+	"createddate": 1702045688.0349998,
+	"name": "nopcommerce_title",
+	"lastfounddate": 1710778568.158,
+	"ocrcapturestring": "nopCommerce",
+	"lastfoundlocation": [
+		20,
+		160,
+		246,
+		64
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[294,23]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "nopcommerce_title.png",
+				"connectionname": "3.101.91.195",
+				"type": 1,
+				"connectionserverid": "3.101.91.195",
+				"capturerect": [
+					20,
+					150,
+					246,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "nopCommerce"
+			}
+	]
+}

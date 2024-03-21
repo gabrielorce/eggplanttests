@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Original">
+ <run>
+  <RunDate>2024-03-18 11:54:56.977 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>39.648000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240318_115456.977/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;RAM_Select&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-18 11:56:13.314 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>30.990000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240318_115613.314/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-18 11:56:50.960 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>30.308000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240318_115650.960/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-18 12:15:59.432 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>34.654000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240318_121559.432/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

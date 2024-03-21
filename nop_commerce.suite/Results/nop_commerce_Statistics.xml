@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="Original">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2024-03-18 11:54:56 -0400</FirstRun>
+  <LastRun>2024-03-18 12:15:59 -0400</LastRun>
+  <TotalTimeOnSuccess>95.952000</TotalTimeOnSuccess>
+ </script>
+ <script name="Add_BYO_to_cart">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2023-12-08 09:23:23 -0500</FirstRun>
+  <LastRun>2024-03-18 08:00:23 -0400</LastRun>
+  <TotalTimeOnSuccess>190.701000</TotalTimeOnSuccess>
+ </script>
+ <script name="Add_VC_to_cart">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-12-08 11:01:53 -0500</FirstRun>
+  <LastRun>2023-12-08 11:01:53 -0500</LastRun>
+  <TotalTimeOnSuccess>11.665000</TotalTimeOnSuccess>
+ </script>
+ <script name="Enter Site">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-12-08 10:54:36 -0500</FirstRun>
+  <LastRun>2024-03-18 11:54:30 -0400</LastRun>
+  <TotalTimeOnSuccess>23.516000</TotalTimeOnSuccess>
+ </script>
+ <script name="checkout">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-12-08 11:03:09 -0500</FirstRun>
+  <LastRun>2023-12-08 11:03:09 -0500</LastRun>
+  <TotalTimeOnSuccess>9.159000</TotalTimeOnSuccess>
+ </script>
+</statistics>

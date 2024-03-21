@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 09:36:37.738 -0500"
+			},
+		{
+				"handlerName": "on_add_to_cart",
+				"timestamp": "2023-12-08 09:36:44.498 -0500",
+				"scriptName": "Add_to_cart.script",
+				"message": "No Image Found On Screen: \"chrome_icon\"",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"6.815\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-08 09:36:37 -0500\", Successes:\"0\", TestCase:\"Add_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 09:36:44.556 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:06 Add_to_cart.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 09:36:44.563 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 09:36:37.739 -0500"
+}

@@ -1,0 +1,39 @@
+{
+	"lastmodifieddate": 1710777249.095,
+	"lastfoundlocation": [
+		116,
+		39,
+		22,
+		30
+	],
+	"originalcapturelocation": [
+		116,
+		39,
+		22,
+		30
+	],
+	"createddate": 1702045243.8969998,
+	"lastfounddate": 1710777025.836,
+	"testlocationdata": [
+		{
+				"name": "magnifying_glass/magnifying_glass.png",
+				"type": 1,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[69,15]",
+					"Tolerance": "_1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"capturerect": [
+					116,
+					39,
+					22,
+					30
+				]
+			}
+	],
+	"name": "magnifying_glass"
+}

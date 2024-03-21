@@ -1,0 +1,11 @@
+﻿2024-03-18 11:54:56.982 -0400	START		Running Original.script
+2024-03-18 11:54:57.231 -0400	doubleclick	chrome_icon	at (39, 287)	8	on_original	Original.script
+2024-03-18 11:54:59.714 -0400	click	magnifying_glass	at (155, 66)	9	on_original	Original.script
+2024-03-18 11:55:01.235 -0400	typetext		nopcommerce.testplant.com[return]	10	on_original	Original.script
+2024-03-18 11:55:02.075 -0400	click	nopcommerce_title	at (681, 284)	11	on_original	Original.script
+2024-03-18 11:55:02.780 -0400	scrollwheeldown		moved 15	13	on_original	Original.script
+2024-03-18 11:55:03.615 -0400	click	ADDTOCART	at (158, 323)	15	on_original	Original.script
+2024-03-18 11:55:04.329 -0400	scrollwheeldown		moved 6	17	on_original	Original.script
+2024-03-18 11:55:36.535 -0400	Exception	RAM_Select	No Image Found On Screen: "RAM_Select"	19	on_original	Original.script
+2024-03-18 11:55:36.627 -0400	EndTestCase		(Duration:"39.641", Errors:"1", Exceptions:"1", StartTime:"2024-03-18 11:54:56 -0400", Successes:"0", TestCase:"Original.script", Warnings:"0")
+2024-03-18 11:55:36.694 -0400	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "RAM_Select" -- Execution Time 0:00:39 Original.script

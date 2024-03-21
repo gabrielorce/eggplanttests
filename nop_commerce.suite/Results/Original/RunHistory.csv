@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-18 11:54:56.977 -0400,"Failure",0:00:39,1,0,1,"20240318_115456.977/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""RAM_Select""",0
+2024-03-18 11:56:13.314 -0400,"Success",0:00:30,0,0,0,"20240318_115613.314/LogFile.txt","","",1
+2024-03-18 11:56:50.960 -0400,"Success",0:00:30,0,0,0,"20240318_115650.960/LogFile.txt","","",1
+2024-03-18 12:15:59.432 -0400,"Success",0:00:34,0,0,0,"20240318_121559.432/LogFile.txt","","",1

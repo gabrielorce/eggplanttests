@@ -1,0 +1,6 @@
+﻿2024-03-18 11:54:30.427 -0400	START		Running Enter Site.script
+2024-03-18 11:54:30.675 -0400	doubleclick	chrome_icon	at (39, 287)	8	on_enter_site	Enter Site.script
+2024-03-18 11:54:35.270 -0400	click	magnifying_glass	at (135, 63)	9	on_enter_site	Enter Site.script
+2024-03-18 11:54:36.766 -0400	typetext		nopcommerce.testplant.com[return]	10	on_enter_site	Enter Site.script
+2024-03-18 11:54:36.798 -0400	EndTestCase		(Duration:"6.366", Errors:"0", Exceptions:"0", StartTime:"2024-03-18 11:54:30 -0400", Successes:"1", TestCase:"Enter Site.script", Warnings:"0")
+2024-03-18 11:54:36.827 -0400	SUCCESS		Execution Time 0:00:06 Enter Site.script

@@ -1,0 +1,24 @@
+﻿2024-03-18 11:56:13.319 -0400	START		Running Original.script
+2024-03-18 11:56:13.614 -0400	doubleclick	chrome_icon	at (39, 287)	8	on_original	Original.script
+2024-03-18 11:56:15.837 -0400	click	magnifying_glass	at (135, 63)	9	on_original	Original.script
+2024-03-18 11:56:17.388 -0400	typetext		nopcommerce.testplant.com[return]	10	on_original	Original.script
+2024-03-18 11:56:18.523 -0400	click	nopcommerce_title	at (314, 183)	11	on_original	Original.script
+2024-03-18 11:56:19.240 -0400	scrollwheeldown		moved 15	13	on_original	Original.script
+2024-03-18 11:56:20.077 -0400	click	ADDTOCART	at (105, 308)	15	on_original	Original.script
+2024-03-18 11:56:20.794 -0400	scrollwheeldown		moved 6	17	on_original	Original.script
+2024-03-18 11:56:21.649 -0400	click	RAM_Select	at (600, 281)	19	on_original	Original.script
+2024-03-18 11:56:22.376 -0400	keydown		[downArrow]	22	on_original	Original.script
+2024-03-18 11:56:23.112 -0400	keydown		[return]	23	on_original	Original.script
+2024-03-18 11:56:23.967 -0400	click	HDD_Select	at (493, 349)	25	on_original	Original.script
+2024-03-18 11:56:24.823 -0400	click	ADDTOCART	at (615, 682)	28	on_original	Original.script
+2024-03-18 11:56:25.539 -0400	scrollwheelup		moved 15	30	on_original	Original.script
+2024-03-18 11:56:29.422 -0400	click	Shoppingcart	at (904, 108)	32	on_original	Original.script
+2024-03-18 11:56:30.138 -0400	scrollwheeldown		moved 15	34	on_original	Original.script
+2024-03-18 11:56:30.849 -0400	scrollwheelup		moved 2	35	on_original	Original.script
+2024-03-18 11:56:32.665 -0400	click	(TEXT:"CHECKOUT")	at (868, 356)	38	on_original	Original.script
+2024-03-18 11:56:35.825 -0400	click	Termsofservice_close	at (628, 369)	40	on_original	Original.script
+2024-03-18 11:56:36.718 -0400	click	Iagree_TOS	at (575, 292)	41	on_original	Original.script
+2024-03-18 11:56:38.501 -0400	click	(TEXT:"CHECKOUT")	at (868, 356)	43	on_original	Original.script
+2024-03-18 11:56:43.648 -0400	click	chrome_close	at (1000, 19)	48	on_original	Original.script
+2024-03-18 11:56:44.306 -0400	EndTestCase		(Duration:"30.984", Errors:"0", Exceptions:"0", StartTime:"2024-03-18 11:56:13 -0400", Successes:"1", TestCase:"Original.script", Warnings:"0")
+2024-03-18 11:56:44.373 -0400	SUCCESS		Execution Time 0:00:30 Original.script

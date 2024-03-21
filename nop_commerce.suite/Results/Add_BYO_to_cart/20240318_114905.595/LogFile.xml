@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Add_BYO_to_cart_script" package="nop_commerce.suite" timestamp="2024-03-18 11:49:05.595 -0400"
+ tests="1"  failures="0" errors="0" time="6.663000">
+  <properties>
+   <property name="RunDate" value="2024-03-18 11:49:05.595 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Add_BYO_to_cart.script" assertions="1" status="failure"  time="6.639">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

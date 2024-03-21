@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running session1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 09:28:43.985 -0500"
+			},
+		{
+				"handlerName": "on_session1",
+				"timestamp": "2023-12-08 09:28:56.566 -0500",
+				"scriptName": "session1.script",
+				"message": "No Image Found On Screen: \"chrome_icon\"",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"12.621\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-08 09:28:43 -0500\", Successes:\"0\", TestCase:\"session1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 09:28:56.609 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:12 session1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 09:28:56.615 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 09:28:43.986 -0500"
+}

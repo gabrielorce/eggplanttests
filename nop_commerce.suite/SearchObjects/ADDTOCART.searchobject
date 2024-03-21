@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		285,
+		655,
+		105,
+		15
+	],
+	"lastmodifieddate": 1702045244.4260001,
+	"createddate": 1702045244.4260001,
+	"name": "ADDTOCART",
+	"lastfounddate": 1710778574.4619999,
+	"ocrcapturestring": "ADD TO CART",
+	"lastfoundlocation": [
+		550,
+		678,
+		105,
+		15
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "ADD TO CART",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[65,4]",
+					"Tolerance": "_52",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"type": 1,
+				"capturerect": [
+					285,
+					655,
+					105,
+					15
+				],
+				"name": "ADDTOCART.png"
+			}
+	]
+}

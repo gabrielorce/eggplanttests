@@ -1,0 +1,105 @@
+{
+	"entries": [
+		{
+				"message": "Running Add_VC_to_cart.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 11:00:56.701 -0500"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:00:56.859 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (314, 173)",
+				"image": "nopcommerce_title",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:00:57.576 -0500",
+				"message": "moved 15",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 11,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:00:58.423 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (819, 300)",
+				"image": "VirtualGiftCard_ADDTOCART",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:00:59.134 -0500",
+				"message": "moved 2",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 15,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:00:59.976 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (528, 513)",
+				"image": "RecipientsName",
+				"handlerLine": 17,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:01.061 -0500",
+				"message": "James John[return]",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 18,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:01.913 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (527, 577)",
+				"image": "RecipientsEmail",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:02.938 -0500",
+				"message": "jj@jj.com[return]",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 20,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:03.794 -0500",
+				"scriptName": "Add_VC_to_cart.script",
+				"message": "at (503, 642)",
+				"image": "YourName",
+				"handlerLine": 21,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_add_vc_to_cart",
+				"timestamp": "2023-12-08 11:01:04.691 -0500",
+				"message": "tiger[return]",
+				"scriptName": "Add_VC_to_cart.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"16.432\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-08 11:00:56 -0500\", Successes:\"0\", TestCase:\"Add_VC_to_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 11:01:13.137 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:16 Add_VC_to_cart.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 11:01:13.145 -0500"
+			}
+	],
+	"createdTimestamp": "2023-12-08 11:00:56.704 -0500"
+}

@@ -1,0 +1,5 @@
+﻿2024-03-18 11:53:34.811 -0400	START		Running Enter Site.script
+2024-03-18 11:53:35.053 -0400	doubleclick	chrome_icon	at (39, 287)	8	on_enter_site	Enter Site.script
+2024-03-18 11:53:50.521 -0400	Exception	magnifying_glass	No Image Found On Screen: "magnifying_glass"	9	on_enter_site	Enter Site.script
+2024-03-18 11:53:50.599 -0400	EndTestCase		(Duration:"15.784", Errors:"1", Exceptions:"1", StartTime:"2024-03-18 11:53:34 -0400", Successes:"0", TestCase:"Enter Site.script", Warnings:"0")
+2024-03-18 11:53:50.605 -0400	ABORTED		Execution Time 0:00:15 Enter Site.script

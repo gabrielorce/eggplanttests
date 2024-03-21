@@ -1,0 +1,3 @@
+﻿ScrollWheelUp 15
+
+Click {Image:"Shoppingcart", WaitFor:11}

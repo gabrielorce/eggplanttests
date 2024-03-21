@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running Enter Site.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:50:43.837 -0400"
+			},
+		{
+				"handlerName": "on_enter_site",
+				"timestamp": "2024-03-18 11:50:44.074 -0400",
+				"scriptName": "Enter Site.script",
+				"message": "at (39, 287)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_enter_site",
+				"timestamp": "2024-03-18 11:51:14.158 -0400",
+				"scriptName": "Enter Site.script",
+				"message": "No Image Found On Screen: \"magnifying_glass\"",
+				"image": "magnifying_glass",
+				"handlerLine": 9,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"30.385\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-18 11:50:43 -0400\", Successes:\"0\", TestCase:\"Enter Site.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:51:14.227 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:30 Enter Site.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-18 11:51:14.232 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:50:43.839 -0400"
+}

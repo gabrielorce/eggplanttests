@@ -1,0 +1,201 @@
+{
+	"entries": [
+		{
+				"message": "Running Original.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 11:56:50.964 -0400"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:51.243 -0400",
+				"scriptName": "Original.script",
+				"message": "at (39, 287)",
+				"image": "chrome_icon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:53.788 -0400",
+				"scriptName": "Original.script",
+				"message": "at (135, 63)",
+				"image": "magnifying_glass",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:55.309 -0400",
+				"message": "nopcommerce.testplant.com[return]",
+				"scriptName": "Original.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:56.166 -0400",
+				"scriptName": "Original.script",
+				"message": "at (314, 183)",
+				"image": "nopcommerce_title",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:56.882 -0400",
+				"message": "moved 15",
+				"scriptName": "Original.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:57.719 -0400",
+				"scriptName": "Original.script",
+				"message": "at (105, 308)",
+				"image": "ADDTOCART",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:58.424 -0400",
+				"message": "moved 6",
+				"scriptName": "Original.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:56:59.274 -0400",
+				"scriptName": "Original.script",
+				"message": "at (600, 281)",
+				"image": "RAM_Select",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:00.003 -0400",
+				"message": "[downArrow]",
+				"scriptName": "Original.script",
+				"handlerLine": 22,
+				"identifier": "keydown"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:00.737 -0400",
+				"message": "[return]",
+				"scriptName": "Original.script",
+				"handlerLine": 23,
+				"identifier": "keydown"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:01.594 -0400",
+				"scriptName": "Original.script",
+				"message": "at (493, 349)",
+				"image": "HDD_Select",
+				"handlerLine": 25,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:02.435 -0400",
+				"scriptName": "Original.script",
+				"message": "at (615, 682)",
+				"image": "ADDTOCART",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:03.150 -0400",
+				"message": "moved 15",
+				"scriptName": "Original.script",
+				"handlerLine": 30,
+				"identifier": "scrollwheelup"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:07.015 -0400",
+				"scriptName": "Original.script",
+				"message": "at (904, 108)",
+				"image": "Shoppingcart",
+				"handlerLine": 32,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:07.730 -0400",
+				"message": "moved 15",
+				"scriptName": "Original.script",
+				"handlerLine": 34,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:08.441 -0400",
+				"message": "moved 2",
+				"scriptName": "Original.script",
+				"handlerLine": 35,
+				"identifier": "scrollwheelup"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:10.294 -0400",
+				"scriptName": "Original.script",
+				"message": "at (868, 356)",
+				"image": "(TEXT:\"CHECKOUT\")",
+				"handlerLine": 38,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:13.494 -0400",
+				"scriptName": "Original.script",
+				"message": "at (628, 369)",
+				"image": "Termsofservice_close",
+				"handlerLine": 40,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:14.319 -0400",
+				"scriptName": "Original.script",
+				"message": "at (575, 292)",
+				"image": "Iagree_TOS",
+				"handlerLine": 41,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:16.096 -0400",
+				"scriptName": "Original.script",
+				"message": "at (868, 356)",
+				"image": "(TEXT:\"CHECKOUT\")",
+				"handlerLine": 43,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_original",
+				"timestamp": "2024-03-18 11:57:21.233 -0400",
+				"scriptName": "Original.script",
+				"message": "at (1000, 19)",
+				"image": "chrome_close",
+				"handlerLine": 48,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"30.301\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-18 11:56:50 -0400\", Successes:\"1\", TestCase:\"Original.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 11:57:21.270 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:30 Original.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-18 11:57:21.317 -0400"
+			}
+	],
+	"createdTimestamp": "2024-03-18 11:56:50.966 -0400"
+}

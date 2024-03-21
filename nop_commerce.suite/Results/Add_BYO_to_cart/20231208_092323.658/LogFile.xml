@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="session1_script" package="nop_commerce.suite" timestamp="2023-12-08 09:23:23.658 -0500"
+ tests="1"  failures="1" errors="1" time="26.467000">
+  <properties>
+   <property name="RunDate" value="2023-12-08 09:23:23.658 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="session1.script" assertions="1" status="error"  time="26.46">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;ADDTOCART&quot; -- Execution Time 0:00:26 session1.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;ADDTOCART&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

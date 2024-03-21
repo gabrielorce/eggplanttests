@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-12-08 11:00:56.698 -0500,"Aborted",0:00:16,1,0,0,"20231208_110056.698/LogFile.txt","","",0
+2023-12-08 11:01:19.266 -0500,"Aborted",0:00:15,1,0,1,"20231208_110119.266/LogFile.txt","","",0
+2023-12-08 11:01:35.985 -0500,"Aborted",0:00:11,1,0,0,"20231208_110135.985/LogFile.txt","","",0
+2023-12-08 11:01:53.006 -0500,"Success",0:00:11,0,0,0,"20231208_110153.006/LogFile.txt","","",1
